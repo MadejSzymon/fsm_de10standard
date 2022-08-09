@@ -1,0 +1,7 @@
+PowerPlay Early Power Estimator File Generator Status : Successful - Sat Oct 31 17:35:26 2020
+Quartus Prime Version : 16.1.0 Build 196 10/24/2016 SJ Lite Edition
+Revision Name : Intel_challenge_2
+Top-level Entity Name : top
+Family : Cyclone V
+Device : 5CSXFC6D6F31C6
+Power Estimation Confidence : Low: user provided insufficient toggle rate data

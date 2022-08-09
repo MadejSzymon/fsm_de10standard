@@ -1,0 +1,20 @@
+
+//GLOBAL PARAMETERS
+`define T  {23{1'b1}}
+`define T_half  {22{1'b1}}
+`define T_quarter  {21{1'b1}}
+`define T_3quarter  {21{1'b1}} * 3
+
+`define TIME_OPEN  4
+`define TIME_WAIT  5
+`define TIME_CLOSE  4
+
+`define IDLE  0
+`define OPEN  1
+`define WAIT  2
+`define CLOSE  3
+`define PANIC  4
+
+`define STATE_SIZE  2
+`define TIMER_SIZE  22
+`define SEC_TIMER_SIZE  2

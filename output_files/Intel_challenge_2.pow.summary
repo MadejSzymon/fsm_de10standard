@@ -1,0 +1,12 @@
+PowerPlay Power Analyzer Status : Successful - Sat Oct 31 16:16:55 2020
+Quartus Prime Version : 16.1.0 Build 196 10/24/2016 SJ Lite Edition
+Revision Name : Intel_challenge_2
+Top-level Entity Name : top
+Family : Cyclone V
+Device : 5CSXFC6D6F31C6
+Power Models : Final
+Total Thermal Power Dissipation : 443.36 mW
+Core Dynamic Thermal Power Dissipation : 15.41 mW
+Core Static Thermal Power Dissipation : 415.14 mW
+I/O Thermal Power Dissipation : 12.81 mW
+Power Estimation Confidence : Low: user provided insufficient toggle rate data
